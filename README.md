@@ -35,7 +35,7 @@ EDA involved exploring the coffee shop sales data to answer key questions such a
 
 ### Data Analysis
 
-Crreated a dashboard in Excel using *PowerPivot Analyse*
+Created a dashboard in Excel using *PowerPivot Analyse*
 
 ### Results/Findings
 The analysis results are summarised as follows:
