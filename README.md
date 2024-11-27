@@ -9,6 +9,9 @@
 
 This project provides a comprehensive analysis of a coffee shop’s sales performance, customer behavior, and product trends. By leveraging data-driven insights, it empowers business owners to optimize operations, improve customer retention, and identify high-performing products and regions.
 
+![Coffee Sales project Dashboard](https://github.com/user-attachments/assets/16569162-1075-4913-93e0-3c61a114158b)
+
+
 ### Data Source
 
 The Coffee Shop Sales data: The primary dataset used for this analysis is the coffeeshopdataset.xlsx supplied by @DataKliq and it contains detailed information about each coffee sale made by the shop.
